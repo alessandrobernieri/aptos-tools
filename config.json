@@ -1,0 +1,11 @@
+{
+    "PrivateKey": "private key here",
+    "MintAmount": 5,
+    "CandyAddress": "0x481efbf0c3cbec627b5f5674287d4ae6ee770da5949dcfe698a8520108236a33",
+    "CreatorV2": "",
+    "SleepTime": 100,
+    "Collection": "0x43ec2cb158e3569842d537740fd53403e992b9e7349cc5d3dfaa5aff8faaef2::Bruh%20Bears",
+    "MaxPrice": 15,
+    "Gas": 200,
+    "Phase": 0
+}
